@@ -1,0 +1,4 @@
+pillow>=10
+numpy
+zint-bindings>=1.2
+pywin32; sys_platform == "win32"
